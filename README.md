@@ -1,5 +1,7 @@
 # SistemaCadastro
 
+- Para a execução correta do programa, será necessário ter o MySQL Workbench instalado e um banco de dados chamado "teste"(pode ser alterado no código), uma tabela chamada "tabelateste"(pode ser alterado no código) e a senha "password"(pode ser alterado no código).
+
 - TELA INICIAL -<br>
 ![Captura de tela de 2022-07-25 15-18-29](https://user-images.githubusercontent.com/26747693/180848844-f6b40e25-feb9-47be-9387-392f4e97b2a0.png)
 - TELA CONSULTA -<br>
