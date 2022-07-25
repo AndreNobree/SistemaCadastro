@@ -128,7 +128,11 @@ class TelaCad:
         while True:
             self.eventos, self.valores = janela.read()
             print(self.valores)
-
+            if self.eventos == sg.WINDOW_CLOSED:
+                break
+            
+            if self.eventos == 'Terminar':
+                break
         #DECLARAÇÃO DE VARIÁVEIS DA PRINCIPAL
 
                 #nome e numero de cartão
@@ -174,8 +178,6 @@ class TelaCad:
             if valO == '':
                 valO = 0
 
-            if self.eventos == sg.WINDOW_CLOSED:
-                break
 
             if self.eventos == 'Limpar':
                 janela['cartao'].update('')
@@ -194,10 +196,6 @@ class TelaCad:
                 janela['bairro'].update('')
                 janela['telefone'].update('')
                 janela['telefone2'].update('')
-
-            if self.eventos == 'Terminar':
-                janela.close()
-                break
 
 #validação de datas
             try:
