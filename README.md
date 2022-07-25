@@ -2,7 +2,7 @@
 
 - TELA INICIAL -
 ![Captura de tela de 2022-07-25 15-18-29](https://user-images.githubusercontent.com/26747693/180848844-f6b40e25-feb9-47be-9387-392f4e97b2a0.png)
-- TELA CONSULTA -
+- TELA CONSULTA -<br>
 ![Captura de tela de 2022-07-25 15-18-56](https://user-images.githubusercontent.com/26747693/180848899-1e177f59-b714-4290-a055-4d859cf1e514.png)
 - TELA EDIÇÃO -
 ![Captura de tela de 2022-07-25 15-21-00](https://user-images.githubusercontent.com/26747693/180848989-0b5e253e-b75a-43c2-8df3-1e115e763666.png)
