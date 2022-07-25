@@ -44,8 +44,8 @@ class TelaCad:
         conexao = mysql.connector.connect(
             host='localhost',
             user='root',
-            password='Geral@56',
-            database='ieadtcteste'
+            password='password',
+            database='teste'
         )
         cursor = conexao.cursor()
 
